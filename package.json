@@ -22,5 +22,8 @@
   "dependencies": {
     "chalk": "^5.4.1"
   },
+  "scripts": {
+    "test": "echo '#FF0000 #00FF00 #0000FF' | node awecolor.mjs --extract | grep -q '#FF0000'"
+  },
   "license": "MIT"
 }
