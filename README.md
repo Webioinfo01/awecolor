@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>awecolor</h1>
+  <h1>awecolor: Hex Color Visualizer</h1>
   <p><strong>Colorize hex color codes in your terminal.</strong></p>
   <p>Pipe text or pass files to see hex colors rendered with their actual background.</p>
   <p>
@@ -12,7 +12,10 @@
   </p>
   <p>
     <img src="https://img.shields.io/badge/status-alpha-c96a3d?style=flat-square" alt="Status">
+    <img src="https://img.shields.io/badge/install-npm-22C55E?style=flat-square" alt="npm install">
     <img src="https://img.shields.io/badge/platform-terminal-334155?style=flat-square" alt="Platform">
+    <img src="https://img.shields.io/npm/dm/awecolor?style=flat-square" alt="npm downloads">
+    <img src="https://img.shields.io/github/stars/mugpeng/awecolor?style=flat-square" alt="GitHub stars">
   </p>
 </div>
 

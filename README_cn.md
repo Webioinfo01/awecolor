@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>awecolor</h1>
+  <h1>awecolor: Hex Color Visualizer</h1>
   <p><strong>在终端中渲染十六进制颜色代码。</strong></p>
   <p>通过管道或文件参数传入文本，即可看到十六进制颜色的实际背景效果。</p>
   <p>
@@ -12,7 +12,10 @@
   </p>
   <p>
     <img src="https://img.shields.io/badge/status-alpha-c96a3d?style=flat-square" alt="Status">
+    <img src="https://img.shields.io/badge/install-npm-22C55E?style=flat-square" alt="npm install">
     <img src="https://img.shields.io/badge/platform-terminal-334155?style=flat-square" alt="Platform">
+    <img src="https://img.shields.io/npm/dm/awecolor?style=flat-square" alt="npm downloads">
+    <img src="https://img.shields.io/github/stars/mugpeng/awecolor?style=flat-square" alt="GitHub stars">
   </p>
 </div>
 
