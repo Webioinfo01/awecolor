@@ -1,0 +1,26 @@
+{
+  "name": "awecolor",
+  "version": "0.1.0",
+  "description": "Colorize hex color codes in text",
+  "type": "module",
+  "bin": {
+    "awecolor": "./awecolor.mjs"
+  },
+  "files": [
+    "awecolor.mjs"
+  ],
+  "keywords": [
+    "hex",
+    "color",
+    "cli",
+    "colorize",
+    "terminal"
+  ],
+  "engines": {
+    "node": ">=18"
+  },
+  "dependencies": {
+    "chalk": "^5.4.1"
+  },
+  "license": "MIT"
+}
