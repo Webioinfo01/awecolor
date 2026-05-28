@@ -4,7 +4,8 @@
   <p>Pipe text or pass files to see hex colors rendered with their actual background.</p>
   <p>
     <strong>English</strong> ·
-    <a href="./README_cn.md">简体中文</a>
+    <a href="./README_cn.md">简体中文</a> ·
+    <a href="https://we.webioinfo.top/">Webioinfo</a>
   </p>
   <p>
     <img src="https://img.shields.io/badge/version-0.1.0-7C3AED?style=flat-square" alt="Version">

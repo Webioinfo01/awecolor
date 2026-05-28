@@ -4,7 +4,8 @@
   <p>通过管道或文件参数传入文本，即可看到十六进制颜色的实际背景效果。</p>
   <p>
     <a href="./README.md">English</a> ·
-    <strong>简体中文</strong>
+    <strong>简体中文</strong> ·
+    <a href="https://we.webioinfo.top/">Webioinfo</a>
   </p>
   <p>
     <img src="https://img.shields.io/badge/version-0.1.0-7C3AED?style=flat-square" alt="Version">
